@@ -1,0 +1,50 @@
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\Intento2.exe
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\Intento2.deps.json
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\Intento2.runtimeconfig.json
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\Intento2.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\Intento2.pdb
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\Intento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\Intento2.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\Intento2.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\Intento2.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\Intento2.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\refint\Intento2.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\Intento2.pdb
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\Intento2.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\ref\Intento2.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\Spectre.Console.ImageSharp.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\Intento2.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\obj\Debug\net8.0\Intento2.csproj.Up2Date
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\NAudio.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\vladi\OneDrive\Escritorio\Programa para la competencia\Intento2\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\Intento2.exe
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\Intento2.deps.json
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\Intento2.runtimeconfig.json
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\Intento2.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\Intento2.pdb
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\NAudio.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\bin\Debug\net8.0\Spectre.Console.ImageSharp.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\Intento2.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\Intento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\Intento2.AssemblyInfoInputs.cache
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\Intento2.AssemblyInfo.cs
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\Intento2.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\Intento2.csproj.Up2Date
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\Intento2.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\refint\Intento2.dll
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\Intento2.pdb
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\Intento2.genruntimeconfig.cache
+C:\Users\vladi\OneDrive\Escritorio\competencia\obj\Debug\net8.0\ref\Intento2.dll
